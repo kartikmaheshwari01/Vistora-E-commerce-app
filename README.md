@@ -1,16 +1,1 @@
-# fire_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vistora is a modern e-commerce mobile application built with Flutter and Firebase. It features user authentication, product browsing by category, special offers, a real-time cart and wishlist powered by Firestore, and a smooth checkout flow. The app uses Provider for state management and follows a clean green and white design theme throughout.
